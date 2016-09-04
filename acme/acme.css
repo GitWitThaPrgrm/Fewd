@@ -5,7 +5,9 @@ header {
 }
 
 a {
-  text-shadow: -3px 1px 10px purple;
+  text-shadow: -3px 1px 3px grey;
+  color: rgba(255,255,255,0.5);
+
 }
 
 body {
@@ -26,6 +28,7 @@ li {
 
 img {
   width: 200px;
+  height: 80px;
 }
 
 footer {
