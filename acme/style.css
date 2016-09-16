@@ -1,0 +1,176 @@
+* {
+  font-family: "Lucida Grande";
+}
+.indexarticle {
+  width: 80%;
+  text-align: center;
+  border: 0px solid black;
+  padding: 20px;
+  margin: 60px;
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.logo {
+  height: 80px;
+  }
+
+
+.headerlinks {
+      float: right;
+  }
+
+nav {
+  display: inline-block;
+  float: right;
+  margin-top: 5px;
+}
+
+  header {
+    /*same for all pages*/
+    width: 98%;
+    background: #c4c4c4;
+    height: 80px;
+    border: none;
+    border-radius: 7px;
+    padding: 2px;
+  }
+
+body {
+  /*same for all pages*/
+  background-image: url('images/background.png');
+  background-size: 350px;
+}
+
+button {
+  /*sameforall*/
+  margin: 5px 20px;
+  background-color: #2A4CB2;
+  border-radius: 7px;
+  height: 32px;
+  width: 85px;
+}
+
+footer {
+  /*sameforall*/
+  text-align: center;
+  margin-top: 20px;
+}
+
+.hrfoot {
+  max-width: 75%;
+  box-shadow: 0px 0px 1px 0px;
+  height: 1px;
+  position: relative;
+}
+
+form {
+  margin: 0 auto;
+  border: 2px solid #c8c8c8;
+  padding: 10px;
+  background-color: white;
+  width: 80%;
+  box-shadow: 3px;
+  border-radius: 7px;
+  /*margin: 0 auto;*/
+}
+
+
+
+li a {
+  color: white;
+  text-decoration: none;
+
+}
+
+li {
+  display: inline;
+}
+
+.form-label {
+  width: 75px;
+  display: inline-block
+}
+
+
+p {
+  font-size: 18px;
+}
+
+
+
+
+div {
+  display: block;
+  padding: 15px;
+}
+
+input {
+  border-color: E0E0E0;
+  border-radius: 5px;
+}
+
+fieldset {
+  border: none;
+}
+
+select {
+  border-color: (166,166,166);
+  border: solid 1px;
+  min-width: 30px;
+}
+
+.prodpage {
+  width: 80%;
+  border: 0px solid black;
+  padding: 20px;
+  margin: 60px;
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.prodimg {
+  float: left;
+  width: 200px;
+  height: auto;
+  border: 2px solid black;
+  margin: 20px;
+  border-radius: 7px;
+}
+
+.button {
+  width: 130px;
+  height: 40px;
+  background-color: #2A4CB2;
+  font-size: 15px;
+  font-family: "lucida grande";
+  text-decoration: none;
+  color: white;
+}
+
+.atc a {
+  background-color: #2A4CB2;
+  font-family: "lucida grande";
+  text-decoration: none;
+  color: white;
+}
+
+.details  {
+  text-decoration: none;
+  color: #2A4CB2;
+}
+
+hr {
+  width: 98%;
+}
+/*input {
+  margin: 20px;
+}*/
+/*span {
+color: yellow;
+border: 1px solid yellow;
+margin-left: 20px;
+margin-right: 20px;
+}*/
